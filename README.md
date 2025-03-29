@@ -1,5 +1,9 @@
 # Mint_NFT
 
+<p align="center">
+<img align="center" alt="coding" width="350" src="https://github.com/Platypus96/Mint_NFT/blob/main/NFT_MONKEY.jpeg">
+</p>
+
 Mint_NFT is a simple, user-friendly tool for minting NFTs onto your crypto wallet. It is built using **JavaScript** and **Solidity**, utilizing **Hardhat** for development and deployment.
 
 ## Features
